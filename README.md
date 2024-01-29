@@ -26,7 +26,7 @@ Hotkeys:\
 Shaders included:\
 ArtisticVignette.fx by luluco250\
 ChromaticAberration.fx by byxor\
-GTU.fx by matsilaghi, originally by aliaspider\
+GTU.fx by Matsilaghi, originally by aliaspider\
 LUT.fx by martymcmodding\
 scanlines-abs.fx by Matsilaghi, originally by RiskyJumps\
 SimpleGrain.fx by Fubaxiusz\
