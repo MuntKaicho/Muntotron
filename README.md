@@ -15,7 +15,7 @@ Hotkeys:\
 \
 **Shift+F12:** Take Screenshot (Outputs Before/After)\
 **Shift+\\:** Open Reshade settings\
-**\\:** Reload Effects
+**\\:** Reload Effects\
 \
 ----------\
 \
