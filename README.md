@@ -1,10 +1,10 @@
 [⬇️ Download latest release](https://github.com/MuntKaicho/Muntotron/releases/download/muntotron/Muntotron-4.6.zip)
 
 NEWBIE INSTALLATION GUIDE:
-1. Backup any existing Reshade installation you have for the program you're trying to use this with\
-2. Unzip everything in the same folder as the .exe you will be applying this to\
-3. Install Reshade normally, making sure you pick the same graphics API (OpenGL, Vulkan, etc.) that the program is using\
-4. Start up the program and use the hotkeys to pick which preset you want to use\
+1. Backup any existing Reshade installation you have for the program you're trying to use this with
+2. Unzip everything in the same folder as the .exe you will be applying this to
+3. Install Reshade normally, making sure you pick the same graphics API (OpenGL, Vulkan, etc.) that the program is using
+4. Start up the program and use the hotkeys to pick which preset you want to use
 \
 KNOWN ISSUES: Currently the scanline shader doesn't compile properly with DirectX 12, so the presets only have full support for DirectX 9-11, OpenGL and Vulkan\
 \
