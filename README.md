@@ -14,5 +14,5 @@ Hotkeys:\
 **Shift+5:** Dumbass Mode | Mimics exaggerated CRT quirks visible only on a camera\
 \
 **Shift+F12:** Take Screenshot (Outputs Before/After)\
-**Shift+\:** Open Reshade settings\
+**Shift+_\_:** Open Reshade settings\
 **\:** Reload Effects\
