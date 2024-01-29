@@ -16,12 +16,14 @@ Hotkeys:\
 **Shift+F12:** Take Screenshot (Outputs Before/After)\
 **Shift+\\:** Open Reshade settings\
 **\\:** Reload Effects
-
-Shaders included:
-ArtisticVignette.fx by luluco250
-ChromaticAberration.fx by byxor
-GTU.fx by matsilaghi, originally by aliaspider
-LUT.fx by martymcmodding
-scanlines-abs.fx by matsilaghi, originally by riskyjumps
-SimpleGrain.fx by fubaxiusz
-Trails.fx by blueskydefender
+\
+----------\
+\
+Shaders included:\
+ArtisticVignette.fx by luluco250\
+ChromaticAberration.fx by byxor\
+GTU.fx by matsilaghi, originally by aliaspider\
+LUT.fx by martymcmodding\
+scanlines-abs.fx by matsilaghi, originally by riskyjumps\
+SimpleGrain.fx by fubaxiusz\
+Trails.fx by blueskydefender\
