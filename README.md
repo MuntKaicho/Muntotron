@@ -4,7 +4,7 @@ NEWBIE INSTALLATION GUIDE:\
 3. Install Reshade normally, making sure you pick the same graphics API (OpenGL, Vulkan, etc.) that the program is using\
 4. Start up the program and use the hotkeys to pick which preset you want to use\
 \
-KNOWN ISSUES: Currently the scanline filter doesn't compile properly with DirectX 12, so the presets only have full support for DirectX 9-11, OpenGL and Vulkan\
+KNOWN ISSUES: Currently the scanline shader doesn't compile properly with DirectX 12, so the presets only have full support for DirectX 9-11, OpenGL and Vulkan\
 \
 Hotkeys:\
 **Shift+1:** Disabled\
@@ -16,3 +16,12 @@ Hotkeys:\
 **Shift+F12:** Take Screenshot (Outputs Before/After)\
 **Shift+\\:** Open Reshade settings\
 **\\:** Reload Effects
+
+Shaders included:
+ArtisticVignette.fx by luluco250
+ChromaticAberration.fx by byxor
+GTU.fx by matsilaghi, originally by aliaspider
+LUT.fx by martymcmodding
+scanlines-abs.fx by matsilaghi, originally by riskyjumps
+SimpleGrain.fx by fubaxiusz
+Trails.fx by blueskydefender
