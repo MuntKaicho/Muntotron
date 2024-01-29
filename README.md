@@ -1,3 +1,5 @@
+[⬇️ Download latest release](https://github.com/MuntKaicho/Muntotron/releases/download/muntotron/Muntotron-4.6.zip)
+
 NEWBIE INSTALLATION GUIDE:
 1. Backup any existing Reshade installation you have for the program you're trying to use this with\
 2. Unzip everything in the same folder as the .exe you will be applying this to\
