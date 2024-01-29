@@ -9,14 +9,14 @@ KNOWN ISSUES: Currently the scanline shader doesn't compile properly with Direct
 ----------\
 \
 Hotkeys:\
-**Shift+1:** Disabled\
-**Shift+2:** RF Signal Mode | Recommended for NES, Master System\
-**Shift+3:** Composite Signal Mode | Recommended for PC Engine, SNES, N64, Geneis, Saturn, PS1\
-**Shift+4:** Component Signal Mode | Recommended for Dreamcast, PS2, GameCube, Xbox\
-**Shift+5:** Dumbass Mode | Mimics exaggerated CRT quirks visible only on a camera\
+**Ctrl+Shift+1:** Disabled\
+**Ctrl+Shift+2:** RF Signal Mode | Recommended for NES, Master System\
+**Ctrl+Shift+3:** Composite Signal Mode | Recommended for PC Engine, SNES, N64, Geneis, Saturn, PS1\
+**Ctrl+Shift+4:** Component Signal Mode | Recommended for Dreamcast, PS2, GameCube, Xbox\
+**Ctrl+Shift+5:** Dumbass Mode | Mimics exaggerated CRT quirks visible only on a camera\
 \
-**Shift+F12:** Take Screenshot (Outputs Before/After)\
-**Shift+\\:** Open Reshade settings\
+**Ctrl+F12:** Take Screenshot (Outputs Before/After)\
+**+Ctrl+Shift+\\:** Open Reshade settings\
 **\\:** Reload Effects\
 \
 ----------\
