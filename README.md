@@ -27,5 +27,5 @@ ChromaticAberration.fx by byxor\
 GTU.fx by matsilaghi, originally by aliaspider\
 LUT.fx by martymcmodding\
 scanlines-abs.fx by Matsilaghi, originally by RiskyJumps\
-SimpleGrain.fx by fubaxiusz\
-Trails.fx by blueskydefender
+SimpleGrain.fx by Fubaxiusz\
+Trails.fx by BlueSkyDefender
