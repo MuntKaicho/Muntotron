@@ -1,4 +1,4 @@
-NEWBIE INSTALLATION GUIDE:\
+NEWBIE INSTALLATION GUIDE:
 1. Backup any existing Reshade installation you have for the program you're trying to use this with\
 2. Unzip everything in the same folder as the .exe you will be applying this to\
 3. Install Reshade normally, making sure you pick the same graphics API (OpenGL, Vulkan, etc.) that the program is using\
