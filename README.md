@@ -28,6 +28,7 @@ ArtisticVignette.fx by luluco250\
 ChromaticAberration.fx by byxor\
 GTU.fx by Matsilaghi, originally by aliaspider\
 LUT.fx by martymcmodding\
+LumaSharpen.fx by CeeJayDK\
 scanlines-abs.fx by Matsilaghi, originally by RiskyJumps\
 SimpleGrain.fx by Fubaxiusz\
 Trails.fx by BlueSkyDefender
