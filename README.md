@@ -8,6 +8,8 @@ NEWBIE INSTALLATION GUIDE:
 \
 KNOWN ISSUES: Currently the scanline shader doesn't compile properly with DirectX 12, so the presets only have full support for DirectX 9-11, OpenGL and Vulkan\
 \
+[![YouTube](http://i.ytimg.com/vi/rHXDXnUuHKI/hqdefault.jpg)](https://www.youtube.com/watch?v=rHXDXnUuHKI)\
+\
 ----------\
 \
 Hotkeys:\
