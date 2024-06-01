@@ -1,4 +1,4 @@
-[⬇️ Download latest release](https://github.com/MuntKaicho/Muntotron/releases/download/0.4.8/Muntotron-v0.4.8.zip)
+[⬇️ Download latest release](https://github.com/MuntKaicho/Muntotron/releases/download/0.4.9/Muntotron-v0.4.9.zip)
 
 **NEWBIE INSTALLATION GUIDE:**
 1. Backup any existing Reshade installation you have for the program you're trying to use this with
