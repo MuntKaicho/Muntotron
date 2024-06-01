@@ -28,7 +28,7 @@ Shaders included:\
 ArtisticVignette.fx by luluco250\
 ChromaticAberration.fx by byxor\
 GTU.fx by Matsilaghi, originally by aliaspider\
-LUT.fx by martymcmodding\
+LUT.fx by martymcmodding with LUT texture by Sony Trinitron STD by torridgristle\
 LumaSharpen.fx by CeeJayDK\
 scanlines-abs.fx by Matsilaghi, originally by RiskyJumps\
 SimpleGrain.fx by Fubaxiusz\
