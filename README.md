@@ -1,5 +1,5 @@
 [⬇️ Download latest release](https://github.com/MuntKaicho/Muntotron/releases/download/0.4.8/Muntotron-v0.4.8.zip)
-```
+
 NEWBIE INSTALLATION GUIDE:
 1. Backup any existing Reshade installation you have for the program you're trying to use this with
 2. Unzip everything in the same folder as the .exe you will be applying this to
@@ -7,23 +7,23 @@ NEWBIE INSTALLATION GUIDE:
 4. Start up the program and use the hotkeys to pick which preset you want to use
 
 KNOWN ISSUES: Currently the scanline shader doesn't compile properly with DirectX 12
-The presets only have full support for DirectX 9-11, OpenGL and Vulkan
-```
+The presets only have full support for DirectX 9-11, OpenGL and Vulkan\
+
 [📺 YouTube :: Preset Comparisons for Latest Version](https://www.youtube.com/watch?v=rHXDXnUuHKI)\
-\
+
 Hotkeys:\
 **Ctrl+Shift+1:** Disabled\
 **Ctrl+Shift+2:** RF Signal Mode | Recommended for NES, Master System\
 **Ctrl+Shift+3:** Composite Signal Mode | Recommended for PC Engine, SNES, N64, Geneis, Saturn, PS1\
 **Ctrl+Shift+4:** Component Signal Mode | Recommended for Dreamcast, PS2, GameCube, Xbox\
 **Ctrl+Shift+5:** Dumbass Mode | Mimics exaggerated CRT quirks visible only on a camera\
-\
+
 **Ctrl+F12:** Take Screenshot (Outputs before\\after in reshade\\screenshots folder)\
 **Ctrl+Shift+\\:** Open Reshade settings\
-**\\:** Reload Effects\
-\
-----------\
-\
+**\\:** Reload Effects
+
+----------
+
 Shaders included:\
 ArtisticVignette.fx by luluco250\
 ChromaticAberration.fx by byxor\
