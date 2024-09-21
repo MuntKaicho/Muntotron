@@ -6,8 +6,6 @@
 3. Install Reshade normally, making sure you pick the same graphics API (OpenGL, Vulkan, etc.) that the program is using
 4. Start up the program and use the hotkeys to pick which preset you want to use
 
-[📺 YouTube :: Preset Comparisons for v4.9.0 (outdated)](https://www.youtube.com/watch?v=rHXDXnUuHKI)
-
 Hotkeys:\
 **Ctrl+Shift+1:** Disabled\
 **Ctrl+Shift+2:** RF Signal Mode | Recommended for NES, Master System\
@@ -18,6 +16,8 @@ Hotkeys:\
 **Ctrl+F12:** Take Screenshot (Outputs before\\after in reshade\\screenshots folder)\
 **Ctrl+Shift+\\:** Open Reshade settings\
 **\\:** Reload Effects
+
+[📺 YouTube :: Preset Comparisons for v4.9.0 (outdated)](https://www.youtube.com/watch?v=rHXDXnUuHKI)
 
 ----------
 
