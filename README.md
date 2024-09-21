@@ -13,7 +13,7 @@ Hotkeys:\
 **Ctrl+Shift+4:** Component Signal Mode | Recommended for Dreamcast, PS2, GameCube, Xbox\
 **Ctrl+Shift+5:** Dumbass Mode | Mimics exaggerated CRT quirks visible only on a camera\
 
-**Ctrl+F12:** Take Screenshot (Outputs before\\after in reshade\\screenshots folder)\
+**F12:** Take Screenshot (Outputs before\\after in reshade\\screenshots folder)\
 **Ctrl+Shift+\\:** Open Reshade settings\
 **\\:** Reload Effects
 
