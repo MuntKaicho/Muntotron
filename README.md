@@ -6,10 +6,7 @@
 3. Install Reshade normally, making sure you pick the same graphics API (OpenGL, Vulkan, etc.) that the program is using
 4. Start up the program and use the hotkeys to pick which preset you want to use
 
-**KNOWN ISSUES:** Currently the scanline shader doesn't compile properly with DirectX 12.\
-The presets only have full support for DirectX 9-11, OpenGL and Vulkan
-
-[📺 YouTube :: Preset Comparisons for Latest Version](https://www.youtube.com/watch?v=rHXDXnUuHKI)
+[📺 YouTube :: Preset Comparisons for v4.9.0 (outdated)](https://www.youtube.com/watch?v=rHXDXnUuHKI)
 
 Hotkeys:\
 **Ctrl+Shift+1:** Disabled\
