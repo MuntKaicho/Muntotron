@@ -30,3 +30,4 @@ LumaSharpen.fx by CeeJayDK\
 scanlines-abs.fx by Matsilaghi, originally by RiskyJumps\
 SimpleGrain.fx by Fubaxiusz\
 Trails.fx by BlueSkyDefender
+GaussianBloom by Ioxa
